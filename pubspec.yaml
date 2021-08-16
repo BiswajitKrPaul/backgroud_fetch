@@ -27,6 +27,8 @@ dependencies:
   path_provider: ^2.0.2
   shared_preferences: ^2.0.6
   workmanager: ^0.4.1
+  text_view:
+    git: https://github.com/BiswajitKrPaul/text_view.git
 
 dev_dependencies:
   flutter_test:
